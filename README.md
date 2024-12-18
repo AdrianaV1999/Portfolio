@@ -8,6 +8,7 @@ This portfolio is built using React.js with Vite and SCSS to showcase web and UI
 - **React**: Frontend library for building the UI components.
 - **SCSS**: For styling and creating responsive layouts.
 - **React Router**: For navigating between different sections of the portfolio.
+- **Vite**: A fast build tool and development server for quicker development and efficient bundling.
 ## Live Demo
 
 Check out the live website here:
