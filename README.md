@@ -12,4 +12,5 @@ This portfolio is built using React and SCSS to showcase web and UI design proje
 
 Check out the live website here:
 
-adrianav1999.github.io/portfolio/
+[adrianav1999.github.io/portfolio/
+](https://adrianav1999.github.io/portfolio/)
